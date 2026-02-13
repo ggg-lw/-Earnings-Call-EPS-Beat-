@@ -1,0 +1,467 @@
+State Street Corporation (STT) Q4 2025 Earnings Call January 16, 2026 11:00 AM EST
+
+Company Participants
+
+Elizabeth Lynn - Executive VP & Global Head of Investor Relations
+Ronald O’Hanley - CEO & Chairman
+John Woods - Executive VP & CFO
+
+
+Conference Call Participants
+
+Glenn Schorr - Evercore ISI Institutional Equities, Research Division
+Betsy Graseck - Morgan Stanley, Research Division
+Kenneth Usdin - Bernstein Autonomous LLP
+James Mitchell - Seaport Research Partners
+Alexander Blostein - Goldman Sachs Group, Inc., Research Division
+Brennan Hawken - BMO Capital Markets Equity Research
+Gerard Cassidy - RBC Capital Markets, Research Division
+David Smith - Truist Securities, Inc., Research Division
+Michael Mayo - Wells Fargo Securities, LLC, Research Division
+
+
+Presentation
+
+Operator
+
+Good morning, and welcome to the State Street Corporation's Fourth Quarter and Full Year 2025 Earnings Conference Call and Webcast. Today's call will be hosted by Elizabeth Lynn, Head of Investor Relations at State Street. [Operator Instructions] Today's discussion is being broadcast live on State Street's website at investors.statestreet.com. This conference call is also being recorded for replay.
+
+State Street's conference call is copyrighted, and all rights are reserved. This call may not be recorded for rebroadcast or distribution in whole or in part without the expressed written authorization from State Street Corporation. The only authorized broadcast of this call will be housed on State Street's website.
+
+Now I'd like to hand the call over to Elizabeth Lynn.
+
+Elizabeth Lynn
+Executive VP & Global Head of Investor Relations
+
+Good morning and thank you all for joining us. On our call today, our CEO, Ronald O’Hanley, will speak first; then John Woods, our CFO, will take you through our fourth quarter and full year 2025 earnings presentation which is available for download in the Investor Relations section of our website, investors.statestreet.com. Afterward, we'll be happy to take questions.
+
+Before we get started, I'd like to remind you that today's presentation will include results presented on a basis that excludes or adjusts one or more items from GAAP. Reconciliations to these non-GAAP measures to the most directly comparable GAAP or regulatory measure are available in the appendix to our presentation.
+
+In addition, today's call will contain forward-looking statements. Actual results may differ materially from those statements due to a variety of important factors, including those referenced in our discussion today as well as in our SEC filings, including the Risk Factors section in our Form 10-K. Our forward-looking statements speak only as of today, and we disclaim any obligation to update them even if our views should change.
+
+With that, let me hand it over to Ron.
+
+Ronald O’Hanley
+CEO & Chairman
+
+Thank you, Liz. Good morning, everyone, and thank you for joining us. Our fourth quarter results represent a strong finish to another successful year for State Street. We entered 2026 with momentum and a proven strategy that continues to deliver strong results and meaningful value for our clients, shareholders and employees. Our progress reflects the strategic actions and investments we have made in recent years, deepening and broadening our capabilities while elevating our client value proposition which have strengthened our position as our clients' essential partner, enabling us to compete from a position of great strength.
+
+This solid foundation positioned us well to capitalize on a dynamic yet constructive market environment in 2025 and deliver another year of accelerating financial performance. Notably, 2025 marked our second consecutive year of positive operating leverage and pretax margin expansion and our 4Q results represent the 8th straight quarter of positive operating leverage excluding notable items. Our strong financial performance underscores the effectiveness of our strategy. And in 2025, we built on that success with a number of key strategic milestones that I will detail shortly.
+
+These actions reflect our disciplined focus on reinvesting to drive near-term and long-term growth across our franchise, enhance client experience and capabilities and further strengthen our platform while delivering strong shareholder returns. We are excited about the client opportunities ahead and the significant potential being unlocked by the next generation of our operating model transformation, particularly as we further leverage and embed AI-enabled capabilities throughout the franchise.
+
+With that strategic context, let me turn to our fourth quarter and full year highlights on Slide 2 of our Investor presentation. Starting with financial performance, excluding notable items, which John will address shortly, we generated strong fourth quarter EPS growth of 14% year-over-year supported by both record quarterly fee and total revenue. Healthy positive operating leverage in 4Q helped to drive pretax margin to 31% excluding notable items. Our full year results were similarly strong. Excluding notable items, earnings per share were $10.30 or up 19% year-over-year supported by strong revenue growth and growing margins. For 2025, we delivered strong positive operating leverage, expanded pretax margin by more than 150 basis points and achieved return on tangible common equity of 20% excluding notable items.
+
+As we look ahead, our attention is firmly focused on capturing the opportunities before us. Shifts in investor demand, advances in technology and an evolving regulatory landscape are creating new opportunities for both us and our clients. In response, we meaningfully advanced a number of key strategic initiatives last year and are creating new distinctive capabilities that enhance client engagement, open doors to strategically attractive markets and further streamline our operations and technology platform, all of which are designed to support continued strong financial performance.
+
+Within Investment Services which surpassed $50 trillion in AUC/A for the first time in 2025, we are encouraged by rising client satisfaction and the good momentum in Alpha client onboarding, including meaningful progress with large development partners. We are drawing on our heritage of technology-driven innovation and investment services by delivering next-generation tools, digital platforms and client solutions aimed at helping our clients succeed in a constantly evolving market while strategically pivoting State Street to faster-growing segments of the market.
+
+Our strong industry position in private market servicing is a clear example with related servicing fees growing at a double-digit year-over-year pace in 2025, a further illustration is in the digital assets ecosystem. We finalized and recently launched our Digital Asset Platform which will enable tokenization of assets, funds and cash for institutional investors, unlocking new efficiencies, improving liquidity and creating opportunities for growth. As a result, we are strategically positioning State Street to be the bridge between traditional and digital finance and the connection point among Digital Asset Platforms.
+
+Another example is in the wealth services market which presents a highly attractive opportunity for expansion and long-term growth. In 2025, we strategically advanced our capabilities in the space through a partnership and minority investment in Apex Fintech Solutions. This action enables us to capitalize on new opportunities and significantly strengthen our market position, and we are confident that this partnership will deliver positive results this year. This combination of distinctive capabilities and high service quality, coupled with targeted strategic expansions, enables us to meet our clients where they are going while maintaining price discipline.
+
+Within our Investment Management business, over the last several years, we have innovated apace with a focus on expanding product and distribution capabilities. These actions are now delivering strong results. State Street Investment Management ended 2025 with record quarterly and full year management fee revenue. We were also delivering a consistent trend of solid asset growth as 2025 marked its third consecutive year of net new asset growth above 3%. This consistent organic growth helped drive period-end AUM to an all-time high of $5.7 trillion, just 2 quarters after surpassing the $5 trillion mark for the first time.
+
+These results also reflect our ability to innovate in the strategic growth initiatives we executed in 2025. We launched a record 134 new products across our investment management business, expanding our capabilities and delivering greater value to clients. Within our ETF franchise, this included innovative alternatives offerings developed through partnerships with Apollo Global Management, Bridgewater Associates and Blackstone. We also introduced 11 sector SPDR Premium Income ETFs and expanded our suite of actively managed target maturity ETFs further strengthening our fixed income and retirement capabilities, both of which are core strategic priorities.
+
+Throughout 2025, our Investment Management business also cultivated a series of strategic partnerships that strengthen our investment, distribution and technology capabilities and position us for future growth. Early in the year, we invested in Ethic, a technology leader that enables wealth advisers to build tailored client portfolios at scale. We also established a strategic relationship with smallcase, India's largest model portfolios platform and partnered with Van Lanschot Kempen Investment Management to drive further growth in Europe. In addition, we made a strategic minority investment in Coller Capital, one of the world's largest dedicated private market secondaries managers. And after quarter end, we also announced a strategic minority investment in Groww AMC, the asset management arm of one of India's most innovative and fast-growing digital investment platforms.
+
+Within our State Street Markets franchise, we have focused on strategically expanding and deepening client relationships in recent years which is delivering positive results. We generated double-digit full year fee revenue growth across both FX trading services and securities finance in 2025 supported by higher client volumes. As a testament to the strength of our markets franchise and the value we deliver to clients, in 2025, we are proud to see State Street recognized with 8 category wins in Euromoney's FX Awards, doubling our achievements for 2024.
+
+Turning to our operational model. I am pleased to report that we achieved our full year productivity savings target of $500 million in 2025 or 5.5% of our underlying cost base. Over the last 5 years, we have generated nearly $2 billion cumulatively in productivity and other savings including significant recurring cost benefits. This achievement has enabled us to aggressively reinvest in our business which in turn is driving revenue growth, positive operating leverage and increasing returns to shareholders.
+
+We are intensely focused on capturing the additional opportunities ahead of us with technology-led innovation and transformation among the most significant. For our next-gen transformation initiatives, underpinned by our growing AI-enabled capabilities and associated agentics, we are building a stronger foundation and new platforms that aim to even further improve efficiency and empower smarter decisions. We are positioning State Street to set new industry standards and fundamentally transform the way we and our clients work.
+
+Turning to our solid financial position. Our strong balance sheet enabled us to return over $2.1 billion in capital to shareholders in 2025 through common share repurchases and dividends. To conclude, 2025 marked several strategic and performance milestones for State Street, reinforcing the effectiveness of our strategy as we enter 2026 with clear momentum. Our continued improvement is supported by a range of tangible proof points including stronger financial performance, expanded innovation and product capabilities across our franchise and ongoing technology-led transformation of our operating model and client experience. We are focused on the growth opportunities ahead through effective execution of our strategic priorities and leading with client service excellence.
+
+I am optimistic about 2026 and confident in what we will achieve next as a firm. Advancing transformation to enhance how we operate and serve clients and further embedding digital and AI-enabled capabilities more deeply across the organization are the foundation. Our One State Street approach to unlock the full value of our franchise by connecting capabilities for clients has demonstrated results and has even greater potential, continuing to accelerate growth in private markets to strengthen our position as an industry-leading platform and operator, driving continued innovation in our investment management business and executing against our growth opportunities in wealth services are enabling us to strengthen our core. Finally, we are advancing innovation in digital assets and digitizing capabilities in a space that is reshaping financial services. These are ambitious steps designed to position us and our shareholders for long-term success.
+
+With that, let me turn the call over to John who will take you through our results in more detail.
+
+John Woods
+Executive VP & CFO
+
+Thank you, Ron, and good morning, everyone. Picking up on Slide 3, I will review our fourth quarter and full year financial results, all on an ex-notable basis. Fourth quarter highlights included year-over-year fee revenue growth of 8%, higher net interest income and net interest margin, continued capital return and robust EPS growth of 14%. Our pretax margin in the quarter improved to approximately 31%, return on tangible common equity increased to 22% and we generated operating leverage of over 100 basis points.
+
+For the full year, we delivered record total revenue of approximately $14 billion, up more than 7% from the prior year. Record fee revenue of $11 billion increased 9% year-over-year, reflecting broad-based growth across Investment Services, Investment Management and State Street Markets. Expenses of $9.8 billion increased 5%, primarily driven by an increase in strategic initiatives to enhance client-facing capabilities, investments in the ongoing transformation of our technology platform and higher operating costs, net of productivity savings.
+
+We ended the year with record AUC/A and AUM driven by higher market levels and continued strength inflows across Investment Servicing and Investment Management. Our capital and liquidity positions remain strong, giving us flexibility to support clients and invest in future growth. Taken together, we generated operating leverage of nearly 220 basis points and a pretax margin of approximately 29%, up from 28% in 2024.
+
+These results supported EPS growth of 19% and an increase in return on tangible common equity from 19% in 2024 to 20% for the year, underscoring the strong momentum across our businesses and providing a solid foundation as we enter 2026. Finally, notable items totaled $206 million pretax in the fourth quarter or $0.55 per share after tax, primarily reflecting repositioning charges associated with our ongoing productivity efforts as well as an FDIC special assessment release included in other notable items.
+
+Turning now to results for the fourth quarter, starting on Slide 4. Servicing fees increased 8% year-over-year, primarily reflecting higher average market levels, net new business and the impact of currency translation. Record AUC/A of $53.8 trillion increased 16% year-over-year, driven by higher period end market levels and positive client flows. In 2025, we made meaningful strides in our investment services business with servicing fee revenue wins of approximately $330 million, surpassing $300 million for the third consecutive year while continuing to onboard new business at a healthy pace.
+
+As Ron mentioned, we are pleased with the strategic process we are driving across our Investment Services business and our focus on key growth areas including private markets, wealth services and digital assets, which is positioning us for continued momentum. I would emphasize the private markets business in particular, which continued to demonstrate strong growth of 12% in 2025 and now represents approximately 10% of servicing fees, up from 9% in 2024.
+
+Moving to Slide 5. The fourth quarter represented the culmination of a record year for Investment Management revenue, delivering a strong finish to 2025 and reinforcing the strength of our platform. Management fees increased 15% year-over-year to a new quarterly record of $662 million, driven by higher average market levels and quarterly net inflows of $85 billion, supported by strong performance across our ETFs, cash and institutional segments. Assets under management increased 20% from the prior year to an all-time high of $5.7 trillion, reflecting higher period end market levels and continued client inflows. As indicated, innovation remains a cornerstone of our investment management strategy and is driving business momentum. In the fourth quarter alone, we launched 37 new products, further expanding our suite of client solutions and positioning us for continued net new asset growth.
+
+Turning to Slide 6. State Street Markets posted a strong fourth quarter, achieving solid year-over-year growth in both FX trading services and securities finance. FX trading revenue increased 13% year-over-year supported by continued engagement with Investment Services clients. Despite a meaningful decline in currency volatility, our fourth quarter performance benefited from strong client franchise growth and healthy activity across all of our trading venues. Securities finance revenues increased 8% year-over-year, primarily driven by higher client lending balances.
+
+Moving to Slide 7. Software and processing fees declined 15% year-over-year in the fourth quarter, primarily driven by lower on-premises renewals. This is partially offset by a 7% increase in software-enabled revenues reflecting strong client engagement with CRD and continued progress in transitioning clients to our cloud-based SaaS platform. For example, annual recurring revenue increased approximately 11% year-over-year to about $420 million in the fourth quarter and our front office revenue backlog increased approximately 16% year-over-year, reinforcing the differentiated value proposition offered to clients across both public and private markets.
+
+Turning now to Slide 8. Fourth quarter net interest income of $802 million was up 7% year-over-year reflecting a 3 basis point expansion of net interest margin to 1.10% and an increase in average interest earning assets. Year-over-year NIM expansion was driven by improvements in both our interest earning asset and funding mix partially offset by lower market rates. On the interest-earning asset side, continued securities portfolio repricing was complemented by the positive impact of runoff from terminated hedges on loan yields. Our funding mix benefited from a reduction in short-term wholesale funding associated with our balance sheet optimization efforts. Growth in interest-earning assets primarily reflected continued client-driven loan growth and higher investment securities balances, all supported by healthy deposit growth.
+
+On a sequential basis, NII increased 12% driven by an improvement in NIM partially offset by a decline in average interest-earning assets. Sequential NIM expansion reflected an improved interest-earning asset mix driven by continued securities portfolio repricing and benefiting from the runoff from terminated hedges on loan yield. Our funding mix also improved quarter-over-quarter reflecting lower short-term wholesale funding as well as an improved deposit mix primarily due to seasonally higher noninterest-bearing deposits.
+
+Turning to Slide 9. Expenses increased approximately 6% year-over-year in the fourth quarter excluding notable items. Expense growth was primarily driven by an increase in strategic initiatives and technology investments, along with higher operational costs, net of productivity savings. Compensation-related costs increased 6% year-over-year, excluding notable items, reflecting higher salaries and incentive compensation as well as currency translation partially offset by head count reductions related to process improvements and the ongoing simplification of our operating model. We continued to deliver productivity improvements in the fourth quarter, achieving approximately $500 million in productivity and other savings for full year 2025 and meeting the target established at the start of the year. These savings created capacity for incremental investments across key strategic growth priorities and for the investment in ongoing transformation activities.
+
+Moving now to Slide 10. Our capital position remains strong and well above regulatory minimums, providing flexibility to support client activity and advance our strategic priorities. At quarter end, our standardized CET1 ratio was 11.7%, up approximately 40 basis points from the prior quarter, primarily reflecting a decline in risk-weighted assets with the largest driver being market dynamics in our FX trading and agency lending businesses. We returned $635 million of capital to common shareholders during the fourth quarter, including $400 million in common share repurchases and $235 million in declared common stock dividends, resulting in a total payout ratio of over 90%. For the full year, we returned over $2.1 billion of capital to common shareholders for a total payout ratio of roughly 80%.
+
+Turning to Slide 11, I'll cover our 2026 outlook which is on an ex-notable basis. I'll start by outlining the key assumptions underlying our current full year outlook, which assumes global equity markets to be flat point-to-point in 2026, equating to the daily average being up roughly 11% year-over-year. Our 2026 interest rate outlook assumes two cuts by the Fed, one cut by the Bank of England and no cuts by the ECB, all of which broadly align with the forward curves. We currently expect fee revenue to be up 4% to 6%, driven by continued momentum in servicing and management fees, reflecting higher average market levels and organic growth and supported by continued solid client engagement in our markets business.
+
+Regarding NII, based on our current assumptions, we expect NII to be up low single digits for the full year, off a record 2025 print, with an expected improvement in net interest margin relative to 2025. We currently expect expenses to be up approximately 3% to 4%, driven primarily by the investments in strategic growth initiatives and ongoing transformation activities as productivity and other savings are expected to largely offset the growth in recurring operating costs in 2026. We are also targeting a level of productivity and other savings that is comparable to 2025. Importantly, we currently expect to deliver positive operating leverage in excess of 100 basis points in 2026, which suggest a continued improvement in full year pretax margin to roughly 30% this year. We expect an effective tax rate of approximately 22% for the full year. Lastly, we expect our 2026 total payout ratio will be roughly 80%, subject to Board approval and other factors consistent with 2025.
+
+And with that, operator, we can now open the call for questions.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] Our first question will come from Glenn Schorr with Evercore.
+
+Glenn Schorr
+Evercore ISI Institutional Equities, Research Division
+
+I think I see like [ 200 and almost 20 ] basis points of core operating leverage in 2025. And you look at the 100-plus expected for '26. I just want to unpack a little bit of -- on the one hand, you see good markets and improved NII, and you'd love it to be bigger operating leverage and bring more to the bottom line. The other hand, we want you to invest for growth and future gains. So I want to just at the high level hear how you think about that, and you could even weave in, and I won't ask a follow-up because this is a second one, weave in why doesn't AI at some point supercharge that ability to deliver better operating leverage and even better -- in good times?
+
+John Woods
+Executive VP & CFO
+
+Yes, sure, and thanks for the question, Glenn. I mean, I think -- let me unpack that a little bit, and there's a fair bit of management discretion and judgment about how we want to invest that's really baked into that operating leverage outlook for '26 that you're seeing. So -- but first, let me start off with the revenue picture. I think when you look at the guide and the fee revenue, we indicated an assumption of a flat markets outlook for '26. I think the way we see that is the balance point there being a little above the midpoint, if, in fact, markets are flat. So first and foremost, I think you could see that if you isolate the impact of market levels, you could see our revenues coming in a little above the midpoint of the fee revenue range. I wanted to get that out in -- first and foremost.
+
+Secondly, I think what we are doing is baking in significant productivity savings to both what we were able and recognizing in '25 as around $500 million, and that number is going to grow a bit as you get into 2026. What that's allowing us to do is to, for the most part, largely offset our ongoing run-the-bank type costs to support our existing platforms. And much of the remaining growth that you see of that 3% to 4% in expenses is really being decked against those multiyear investments in strategic initiatives that we're very excited about. And so we think that's a good balance point to, on the one hand, continue to drive overall margins higher.
+
+So you saw our progression in '25 where we got to around 29% margin year -- for the year. Our guide in '26 implies continued progress where we're getting to full year margins of around 30% and we actually delivered that in the second half of '25. So we have a good jumping off point as we go into '26. But then there's the judgment that we should be investing in the multiyear opportunities that we're seeing in the servicing business and in the management fee business, whether that's in private markets, wealth, digital and a number of the other investments that you're hearing about in Investment Management. And then separately, we're going to be ramping our investments in our multiyear technology-led transformation. And to your point on AI that has been contributing for us in the past. That's going to be a much bigger part of the story as you get into 2026 and years beyond. So it's really a judgment call on balancing, continuing to drive key metrics higher while investing in multiyear attractive initiatives across our businesses.
+
+Ronald O’Hanley
+CEO & Chairman
+
+Yes, Glenn, it's Ron. I just wanted to underscore a couple things that John said. First of all, the guide does imply markets flat to year-end 2025, and we did that deliberately. I mean our own house view at SS Investment Management is suggesting markets will grow for a variety of reasons, but we wanted to do this to make it easier for each of you. You've got your own market view in here. And I think you know how markets affect our business. We can remind you all of that, if that helps. So that's number one.
+
+Number two, we are investing at a very high level. We invested at a high level in 2025, and we're investing at an even higher level in 2026. The $500 million in productivity, which largely addresses what I would broadly describe as BAU expenses, will help offset a lot of that. And the point of that is that this is the moment we believe we should be investing in capabilities of technology, et cetera. But as John noted, I mean, there's some discretion in that. And if the market and conditions were to turn out to be very different this year, we've got some ability to modulate that. And then on AI, we're well underway in this AI transformation. We do have some savings embedded in that. That will occur at an accelerating rate as we hit the second half of '26 and into '27.
+
+Operator
+
+Our next question will come from Betsy Graseck with Morgan Stanley.
+
+Betsy Graseck
+Morgan Stanley, Research Division
+
+Can you hear me okay?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Yes.
+
+Betsy Graseck
+Morgan Stanley, Research Division
+
+All right. I did have a question on the digital transformation here. But first off, what are clients actually looking to do with you in digital assets? Could you help us understand, is this just crypto? Or is it beyond that?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Actually, relatively little of it is in crypto, is -- if you mean by crypto, kind of bitcoin and other cryptocurrencies, right. It really is about the digitalization of transactions. So a fair amount of it is around how do you digitize and transform things like cash, money market bonds into tokens, number one.
+
+Number two, working with a lot of the digital rail providers to help them, one, in some cases, they need a partner like this, whether it's for reserve cash or things like that. But more importantly, to be able to make the bridge between traditional finance and digital finance. And I may have used this analogy before here, so forgive me if I have, but where we are in this space is like kind of mid 1800s railroads. There's a lot of rails being laid, not all of them are the same gauge. Everybody wants to charge everybody else to cross over from one set of rails to the other. And it's the role of somebody like us to actually enable that movement between and amongst these different rails.
+
+But if you think about our business, in the asset management business, we've got a big money market business. So you'll be seeing from us tokenized money market funds, which have lots of benefits that we can talk about, if you'd like. But in the services business, we, as you know, are the largest servicer of asset managers, and they all want to do similar things plus in terms of digitalizing collateral, tokenizing money market funds, et cetera. So it's to be able to enable those institutions to make this transition from traditional finance into digital finance and to do it in a cost-effective way.
+
+Betsy Graseck
+Morgan Stanley, Research Division
+
+Sure. What's the benefit of tokenized money market funds?
+
+Ronald O’Hanley
+CEO & Chairman
+
+We can collateralize them. I mean, that's the -- I mean, they now can function as collateral. That's -- I mean there's lots of others. There's the speed of settlement, things like that. But I mean the most important would be that.
+
+Betsy Graseck
+Morgan Stanley, Research Division
+
+And clients are interested in this in part for the increased -- the perceived increased efficiency of asset funds movement and new asset classes. Is that fair?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Yes, that's part of it. And the other part of it is, I think -- we all have a view as to how this is going to turn out, but nobody can predict it with accuracy. So for example, to the extent to which stable coins become some kind of regular way of settling securities transactions, you need these kinds of capabilities to enable that kind of cash, if you will, that digital cash to be able to settle a traditional securities transaction.
+
+Betsy Graseck
+Morgan Stanley, Research Division
+
+And should we expect the financial impact of the digital asset work that you're doing and the services that you will be providing, should we be expecting that to appear on the P&L in the near term, medium term, long term? Is it replacing current activity or in addition to current activity? How do you -- how should we think about the financial impact for you?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Yes, so that's hard to predict. I think in the short term it's not necessarily replacing activity. On the margin, I suppose it is, but we're in this space where what we call traditional finance and digital finance, the latter is coming up, but the former dominates volumes and will continue to dominate volumes. So part of this is preparing for a future that, I think, it's reasonable to expect it will come, it's uncertain as to when and how quickly.
+
+John Woods
+Executive VP & CFO
+
+Yes. Just to put an emphasis on that last point, it's not really going to be visible in '26. It's more of a medium-term matter. But all of the investments we're making now will position us so that we are in relevant and part of that growth story over the medium term.
+
+Operator
+
+Our next question will come from Ken Usdin with Autonomous.
+
+Kenneth Usdin
+Bernstein Autonomous LLP
+
+John, on the NII side, a really strong exit and obviously, kind of already run rating above what the kind of guide implies on a quarterly basis from here. So I'm just wondering, can you detail like what things do you think might have kind of overearned on the NII side in the fourth quarter that might not continue going forward?
+
+John Woods
+Executive VP & CFO
+
+Yes, sure. I mean, yes, we're feeling good about some of the early progress here as we start to think about managing for a stable and consistent NII with growing net interest margin, which is what our objectives are. So feel very good about the strong print in the fourth quarter. That said, there was some, I would call it, some seasonal factors with respect to deposit mix that tend to moderate a bit. And so I think the primary contributor to that was our noninterest-bearing balances on the deposit portfolio. We had really nice growth in that portfolio in the fourth quarter. That probably comes off a little bit as you head into '26 and that's the reason for why you couldn't and shouldn't run rate 4Q.
+
+That said, I mean, nevertheless, we printed net interest margin of 110 basis points. We're printing 100 basis points for the year and we're calling for net interest margin rising as you get into '26. And I'd say it's probably -- net interest margin probably comes in a little low, a little lower than the run rate from 4Q, but it comes in higher than what you saw last year. So somewhere -- the balance point is probably somewhere in the middle of that, and I think that underpins an expectation of net interest margin growth on a multiyear basis if you go over the medium term.
+
+Kenneth Usdin
+Bernstein Autonomous LLP
+
+Okay, got it. And just a follow-up on -- you mentioned, and we saw in the third quarter Q that terminated swaps burden should lessen. Can you kind of give us the third to fourth delta on that if you have it in dollars? And then how does that -- how do you expect that to traject as you get into next year?
+
+John Woods
+Executive VP & CFO
+
+Yes. In the fourth quarter, I'd say terminated hedges are going to be a continued tailwind. There's some lumpiness, though, quarter-to-quarter, but I'd say I'd put it in the range of a couple of basis points a quarter, round numbers, with some lumpiness. But overall, that's going to be something that contributes -- it contributed about 2 basis points in the fourth quarter, and it will continue to have a positive impact as you get into 2026.
+
+Operator
+
+Our next question will come from Jim Mitchell with Seaport Global Securities.
+
+James Mitchell
+Seaport Research Partners
+
+John, maybe just following up on Ken's question a little bit, maybe a broader question. It seems like if I think about your NII guide and your NIM -- and the NIM discussion, it seems like maybe the implied balance sheet is pretty flat. I know you're looking to do a lot of optimization with the balance sheet. Is that a fair assumption? And maybe just walk us through some of the opportunities to optimize and how you're thinking about the balance sheet growth in '26?
+
+John Woods
+Executive VP & CFO
+
+Yes. I mean, I think that's fair. I mean I think when you think about '26 in that low single-digit guide, growing net interest margin, I'd say, without much growth, maybe even a touch below where we ended -- where we came out in '25 is what's implied by '26. And I think the point of that is that we're looking to think about balance sheet optimization across all the components of the balance sheet. And some of the early things we saw were in the short-term wholesale funding book where there's some higher cost funding that weren't really driving a lot of value in the investment portfolio. And so you'll see early days us running some of that off. And so that may show total interest-earning assets and total funding declining, but it's noncustomer-facing and it's dilutive to net interest margin and in some cases dilutive to NII.
+
+So you get a win-win there when you run off some of those more wholesale associated portfolios that aren't necessary for other risk management related matters. And it wasn't. We have significant liquidity and so we're feeling good about all of that. But that's an area that I think continues to contribute a bit into '26. Other areas of optimization when we're looking at the loans portfolio, we're seeing some opportunity to pull back on some of the thinner relationship activities and really there's -- we have so much opportunity in our client base to have a broad relationship from a custody perspective and supplement that with lending opportunities. And we're really reserving our capital and liquidity for very attractive deep relationship lending.
+
+So we're doing a little bit of rotation there. Same in the investment portfolio where we -- there's an ongoing repricing that's happening from a securities portfolio standpoint that happens naturally. But from time to time, we find opportunities to accelerate and see opportunities across currencies to add value in the investment portfolio. So all those things are what we mean when we say balance sheet optimization. It's part of what you do over time, but we're doing a little bit of catch-up in terms of some opportunities we saw in late 2025. And then finally, just ensuring that capital is being allocated to its highest and best use and optimizing across risk base and leverage metrics pulls it all together in driving a nice and attractive increase in net interest margin in 2026.
+
+James Mitchell
+Seaport Research Partners
+
+Okay. That's all helpful. But how do you think about the mix and growth in deposits? What's your kind of base assumption embedded in there?
+
+John Woods
+Executive VP & CFO
+
+Yes. I think it's -- I'd say deposits base assumption is around $250 billion. So basically stable overall for 2026 with around 10% of that in noninterest-bearing. So maybe off a little bit from the fourth quarter, but that would imply around $25 billion for noninterest-bearing for 2026.
+
+Operator
+
+Our next question will come from Alex Blostein with Goldman Sachs.
+
+Alexander Blostein
+Goldman Sachs Group, Inc., Research Division
+
+Just maybe building on some of the guidance dynamics. I kind of want to go back to the overall fee guide, if you don't mind. I guess if you just look at the quarter, you're annualizing pretty close to what you're implying for fee guide in 2026. And I totally get the market dynamic right, you're assuming flat markets or no market tailwind, so that all makes sense. But it just feels like there's no organic growth really baked in your 2026 numbers, unless there was something really additive, I guess, to the run rate in Q4, which doesn't feel like there was. So I was just kind of hoping you could unpack what your expectations are for organic growth in the fee businesses? And if there are any offsets that we should be thinking about, that kind of doesn't create a bigger uplift in the fee structure here, even excluding markets?
+
+John Woods
+Executive VP & CFO
+
+Yes. I mean I would say just right out of the gate, two things. One is that sort of the balance point, if markets are flat, are -- as I mentioned a little earlier on the call, bring us a little above the midpoint of that 4% to 6%. So it's the first thing to get out there. And then if -- and Ron was mentioning sensitivities, if markets are up 5%, that brings us to the upper end of that range. So just wanted to make sure that was clear in terms of how the math works.
+
+Then the other point I would make is that for both the quarter and the full year, we generated organic growth in our businesses, in our 2 largest businesses which drive a lot of this in servicing fees. And in management fees, we had very attractive organic growth, something in the neighborhood of 2% for servicing fees at around 3% or 4%, I think, for management fees. And so that's very attractive. A lot of momentum heading into 2026. We do have organic growth built in to those businesses in 2026, and we expect to deliver that.
+
+I think the other things you have to pull together and our other two revenue businesses that I haven't mentioned is in the markets business itself. We also have growth there and that tends to ebb and flow a little bit with how currency and equity volatility plays out. But so you've got to think about that.
+
+And then lastly, our strategic transition in the software business from an on-prem approach to a SaaS approach, which is -- can have some headwinds when you transition from that lumpier but all upfront model to one that's recurring and stable over time. But we think that pays dividends by making that transition and the underlying fundamentals are quite strong with high single-digit improvement and organic growth in the software business notwithstanding that transition. So putting it all together, absolutely expect and plan to deliver on organic growth in 2026.
+
+Alexander Blostein
+Goldman Sachs Group, Inc., Research Division
+
+Got it. That's helpful. And just one more on the balance sheet, just kind of building on the discussion around average earning assets and the optimization there. So it sounds like the average earning assets could remain flattish to your point earlier, and I was hoping you could relate that to the buyback. So when I think about 2025, total payout, I think, it was a little below your target. I think you guys were doing it something in the low 70s versus the 80s. I know leverage I think tends to be a little bit more binding for you guys for now. So with perhaps some more kind of range bound balance sheet should we expect a larger buyback, or a larger payout for 2026? Or how do you guys think about that?
+
+John Woods
+Executive VP & CFO
+
+A couple points there. I mean I think we were right around 80% for '25, maybe just slightly below. That was due to a late in the quarter kind of windfall from the FDIC where we ended up with additional P&L in the denominator. But our actual buybacks from a dollar standpoint were pinpoint on what we expected to deliver for the year. So feeling good there and that rolls over into '26. But we think about this at the beginning of the year, that around 80% is about right. When you think about our capital priorities, we start off with protecting and growing dividend over time given our strong earnings growth. And I think we have a track record of growing earnings and having an attractive growth in the dividend over time. So that's first and foremost.
+
+The other areas are organic opportunities in deploying RWA, and we sort of reserve at the outset some capacity for growing the lending businesses with our custody clients. And we have opportunities to do that. And it's our expectation that we would grow RWA and grow the loan book in '26 with deep customer relationships. We have end markets business that has -- supports Investment Services, Investment Management clients as well that actually has opportunities to deploy RWA, and there's an expectation of growth there that we're putting to work. And then supporting all of that are investment opportunities in bolt-on M&A that helps us accelerate our strategy that we've demonstrated at the end of '25 with several very attractive acquisitions, including Apex.
+
+And so we think that's the right balance to basically have a strong buyback at the end of the day because that's at the end of this once you've allocated the capital in that direction, you still end up with a strong buyback but investing for the long term with your clients. And then lastly, in terms of capital ratios themselves, although technically, from a regulatory standpoint, we're leverage constrained, just how we operate in terms of internal capital targets, et cetera. We tend to operate more on the CET1 as our lead metric that we optimize against. And so that 80% and all those capital priorities I articulated are all expressed in the context of a CET1 ratio.
+
+Operator
+
+Our next question will come from Brennan Hawken with BMO Capital Markets.
+
+Brennan Hawken
+BMO Capital Markets Equity Research
+
+I'd love to follow-up on the software and processing fees in the Alpha. I know you flagged the on-prem and, John, you just spoke to shifting from on-prem to SaaS. But it looked like even beyond on-prem, like pretty much every line in software and processing were also down year-over-year aside from SaaS. So maybe could you help us understand why the other lines were down? And how long of a process is it going to be transitioning from on-prem to SaaS when you hit that tipping point where we can start to see the growth dynamics shift back into your favor, and get the revenue more in line with some of the underlying metrics that continue to look like they're kind of constructed here on the slide?
+
+John Woods
+Executive VP & CFO
+
+Yes, a couple things. I mean I think the biggest driver year-over-year is, in fact, the SaaS line, and that's up 7%. I think you'll have some minor variability in some of the other line items. One of them is professional services down slightly, down a little bit in terms of dollars, and we already referenced the on-prem. So the on-prem is -- I think the message really is on-prem is down. That's by far the biggest driver of the decline year-over-year and nevertheless offset by SaaS.
+
+We also have on the page lending and other related fees, which will jump around a little bit, but these are single-digit million dollars, so not really anything strategically different going on there. And I think this transition will typically happen over the length of the contracts. So it'll take a year or 2 for those contracts to turn over and for us to migrate into an outlook of -- that starts to see the -- not only the recurring revenue that's growing around 11%, but the actual revenues that are booked in the P&L that are growing at high single digit to converge. And that'll typically takes a year or 2 for you to see that happening.
+
+Ronald O’Hanley
+CEO & Chairman
+
+Yes. Brennan, it's Ron. What I would add to that, you used an interesting term which is tipping point. And I would argue that we're at that tipping point. And part of how you know that is that there's fewer and fewer of these big on-prem renewals. As attractive as they are, you get all this revenue upfront. It's inconsistent with the business strategy. It's inconsistent with where the market's going. And we have encouraged our clients and incented our clients to actually move away from on-prem. It's better for them, right, because it saves these periodic gigantic kinds of software change-outs. It's better for us in that we make one change, and it gets spread across lots of clients, and it happens, kind of, in the cloud as opposed to us going in with wrenches and screwdrivers and on-premises with them. So I would say we're at that tipping point. And so you started to see it in 2025, you're seeing it in our guide in 2026 and that we have few, if any, significant on-prem renewals in the guide.
+
+Brennan Hawken
+BMO Capital Markets Equity Research
+
+Got it. Okay. Okay. And then, John, when we're talking about the NII guide, which I think surprised a few folks, particularly given the strength of the fourth quarter, but you spoke to the seasonal loan growth, it seems as though there might have been some puts and takes in maybe mix from your comments before. Could you maybe flesh that out a little bit? And what should we be thinking about for loan growth? Because that's been a pretty solid part of the story here in recent years. Are you guys expecting that to slow overall? And then you're just going to see mix shifts within? Or is that going to continue to be pretty robust as we move forward?
+
+John Woods
+Executive VP & CFO
+
+Yes. Good questions. I'd say all the above. I think we're going to end up with continued loan growth. That loan growth is slowing a bit in the context of overall. But in terms of the opportunities across, call it, subscription finance, fund finance and CLOs, which are the big 3 that are the products that we tend to deliver into our client base, we're seeing very solid growth expectations across all 3 of those. And there are some thinner relationship stuff that's sitting in the commercial loan line that we're allowing to run off, and in some cases, accelerating with some sales here and there. And that is being efficient with respect to capital and liquidity as we're servicing this underlying very strong growth and just being -- rotating some of that capital for its highest and best use with deep customer relationships. So I'd say loan growth into '26 is still part of our story, maybe a little, but below what you might have seen in '25.
+
+Operator
+
+Our next question comes from Gerard Cassidy with RBC.
+
+Gerard Cassidy
+RBC Capital Markets, Research Division
+
+Can you guys share with us, when you go back to your guidance in January of '25 with the fourth quarter '24 numbers, you had fee revenue growth forecast sort of 3% to 5%. NII was flat plus or minus 1% maybe and expenses up 2% to 3%. Clearly, your fee revenues this year were much better than guidance and it's hard to forecast. So I'm not questioning the forecast. But what I'd be interested in when you look back at the forecast versus actual, was it due to just better markets? Or did you do better with your customers? You penetrated them more or you won more business than you thought? What led to that nice beat when you look back on the forecast?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Let me start on that, Gerard, because if you remember, last year, there was a fair amount of economic concern -- kind of concerns about the economy post the election, some concerns about what was going to happen with tariffs, what would that mean for markets, et cetera. So in retrospect, it was a conservative guide. So obviously, we had an unanticipated market tailwind that helped us there, number one.
+
+Number two, we -- while we had some significant execution built into our plan, we executed better than we -- than we even had planned. So you saw good onboardings. You saw we had some pretty important development partners in the Alpha area that we needed to get them onboarded. We've got those onboarded. And then lastly, you had really significant growth in markets. And as we've talked about, we've invested heavily when there was no volatility in the market -- in the markets areas to kind of expand our position with clients, and that really paid off in 2025 because as more volatility came in, you saw what happened kind of post April 1 and Liberation Day. We really benefited from all that, and that was nowhere near in our forecast.
+
+Which gets us really back to this year, and I'll turn it over to John in a second. But that's really why we wanted to focus, Gerard, on what's the kind of embedded organic growth capability in the firm. Instead of putting a market assumption and that may or may not be consistent with your own, we put no market assumption in. We're just saying markets at where they were at the end of 2025 to show here's what it is organically and depending on what you believe on markets, there's some upside to that, or if you believe the markets are going to go down, there's some potential downside to it.
+
+Gerard Cassidy
+RBC Capital Markets, Research Division
+
+Very good. And then as a follow-up, we're all anticipating the Basel III Endgame Proposal will hopefully be released in the first quarter or soon. Can you guys share with us what are you looking for to -- that would be a real benefit for State Street from that proposal?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Yes, maybe the most important benefit will be that we stop talking about it. But...
+
+Gerard Cassidy
+RBC Capital Markets, Research Division
+
+I agree.
+
+Ronald O’Hanley
+CEO & Chairman
+
+But leaving that aside, obviously the G-SIB proposal is very important and what actually happens with capital as it relates to G-SIB as a result of Basel III and everything else that the Fed is doing, we think that collectively will be favorable to the G-SIBs and we should benefit proportionately there. So will we benefit as much as some of the other balance sheet intensive business competitors? Probably not. But nonetheless, there's nothing but goodness that's going to come out of this.
+
+Secondly, and it's not a Basel III point, but [ this new regulatory ] that's come upon us now with this administration and the changes that have been made, for us, the Federal Reserve is the most important. And again, I don't think it has been a huge rollback in regulation. But I think it's the application of regulation and supervision being much more risk-based, much more -- and much more predictable, therefore. And that has just enormous benefits in terms of being able to, one, it just takes some administrative burden off of all of us, but it gives us some predictability in terms of how we operate.
+
+Operator
+
+Our next question will come from David Smith with Truist.
+
+David Smith
+Truist Securities, Inc., Research Division
+
+So you put up about 20% ROTCE. It sounds like you're confident that the ongoing business model transformation still has some legs there. You're pointing to some operating leverage for next year, albeit seemingly with some need for capital retention. I'm just wondering how much potential does State Street have to improve returns further over the next couple of years based on where you see the company's organic growth potential and room for continued efficiency improvements.
+
+Ronald O’Hanley
+CEO & Chairman
+
+Let me begin on that, David. It's Ron and John can pick up. We see a lot of potential. The -- there's -- starting with the revenue lines. We have demonstrated that we can consistently grow these fee lines at an accelerating rate. There was a lot that needed to be done to make that happen. First and foremost, in the core servicing business, it was really getting at service quality. And all of our metrics indicate that, that continues. We continue to be rated very highly there and rated very highly relative to others in the marketplace. Secondly, we've invested in capabilities that are enabling us to do more with these clients and to offer them more services. And then third, and it's last but not least, we've invested heavily in the sales and relationship management for us to deliver on this promise of being our clients' essential partner. So we're very confident in the revenue line across those 3 core businesses.
+
+On top of the core businesses, we've invested, as you know, in some key areas. We've talked a lot about software, and that's in a nice spot. Secondly is in wealth services. That's still nascent, but we're already seeing some revenue pick up there. And between what we have at Charles River in terms of Charles River Wealth, plus the investment that we've made in Apex, that gives us a highly modernized platform that's much more up to date than anybody else's and really positions us for this ongoing shift away from kind of pure institutional asset management to the retail intermediary and direct to the client on a services basis. So we feel pretty strong about the revenue line John has talked about. We're primarily a fee-for-service provider, but the NII is important and there's a -- the balance sheet optimization is underway there. John's talked about that.
+
+In terms of expenses, we continue to be very confident there. We delivered $500 million in productivity last year. We've got the same kind of number planned for this year and we're reinvesting a lot of that back into, what we call, next-gen transformation. We've had transformation underway now for years. And I'm as optimistic about what's in front of us as I am proud of what we've accomplished in terms of the promise of AI. Now everybody's talking about it. We have worked really hard on it. Agentics are being deployed. And if you think about our business and how operationally intensive it is, it actually lends itself to this kind of stuff, whether it's in areas like reconciliations, whether it's in areas of NAV production and what happens afterwards when the NAV is produced and has to be distributed out. So there's just immense opportunities here. The way we're going about it is let's get it right in 2 or 3 high-value areas and then repeat it in analogous areas. So we see this pattern that we've established over the last couple of years as being able to continue and we're looking forward to that.
+
+John Woods
+Executive VP & CFO
+
+Yes, just to add a couple of points there is really, as Ron indicated, the fee businesses, I think where you put it all together, we have an opportunity to grow profitability over time and grow the platform over time. Where it comes from is solidifying the organic growth pivot that began a couple of years ago, and we're demonstrating that in our largest revenue line items. Solidifying and growing NII over time is an objective. And when you think about, what Ron indicated, with respect to how operationally intensive we are, basically converting all of that into a much more manual tech-led transformation is all -- has already -- is underway.
+
+And there's a huge opportunity in front of us to take those resources and from a flywheel standpoint, plowing that back into all the innovative opportunities we have on the strategic initiatives portfolio to continue to be relevant with all of the megatrends that we're seeing that are impacting our business, whether it's digital, wealth, private and opportunities that we see in the United States, but also outside the United States. So those are the thoughts related to that. We have scaled positions, pivoting to growth and really attractive risk, reward profile from that standpoint when you put it all together.
+
+David Smith
+Truist Securities, Inc., Research Division
+
+Putting it all together, does that mean that you should be able to do like a mid-20s ROTCE over the medium term? Or do you think that's too ambitious?
+
+John Woods
+Executive VP & CFO
+
+Yes, I mean, I think from a medium-term standpoint, I think we've made considerable progress migrating the business to where we are now, which is -- we're a pretax margin at 30% in the second half of 2025, and our guide implies that or even a little better for '26. I think the objective here is to solidify that, create that consistency, again, emphasize all that innovation and organic growth across our businesses that we've talked about. And I mean, I think a lot of the priorities you heard from us are multiyear in nature. But I'd say the natural evolution in our journey is that it would be valuable to illustrate what we think we can accomplish across a number of dimensions, both from a return standpoint, whether that's pretax margins or return on tangible common equity, as you indicated, or growth when it comes to EPS and revenues. So I think that's something that we're working on and putting these building blocks together and we should be able to share that over time, maybe sometime later this year.
+
+Operator
+
+Our next question will come from Mike Mayo with Wells Fargo.
+
+Michael Mayo
+Wells Fargo Securities, LLC, Research Division
+
+My short question is, if you put State Street's strategy on a cocktail napkin, what would it say that would impress investors? And my longer version of this question is, my sense is that investors are very frustrated. Today, the stock is down 5% or 6%. This decade, you've far underperformed the S&P 500 despite having stock market benefits. And since the start of even last decade, you talked about investing in tech to progress. And as you know, when I attended the annual meeting way back then, the Board actually said it fell short.
+
+So I feel like under the short, medium and long term, it's not really playing out the way State Street had wanted to do. I think the implicit premise and what you're saying today is that you aren't exactly where you want to be. For the last 2 years, you've seen more momentum. You talked about growth, security servicing. You talked about the pretax margin going from 28% to 29%, maybe 30% this year. So let me accept the implicit premise that you have this new momentum in the last 2 years. Then the issue, I think, comes down to confidence by investors in management and the strategy.
+
+I mean here you have a fee-based capital markets company that's trading at one of its lowest valuations, especially versus peer. So that just takes me back to the cocktail napkin question. What can you say that will give investors greater confidence not about this past quarter, the next quarter or even this year, but that over the next 5 years that this is a company that they should invest in and that they're missing something?
+
+Ronald O’Hanley
+CEO & Chairman
+
+So Mike, let me start on that. I think just listening to you carefully, I don't mean to rephrase your question, but I think you're asking why own State Street at this moment? And I give 5 reasons for it.
+
+First is, there continues to be very attractive fundamentals in the space in which we operate. The shift from savings to investment continues worldwide. The shift from state-provided pensions to funded retirement system continues everywhere, even in places that you least expect it. There's literally a pension revolution going on in the Middle East that we are well positioned to participate in. But democratization of investing is driving growth in vehicles like ETFs, and it's increasing complexity for the players, these big private firms that simply are not positioned to do this work themselves. As I mentioned earlier, the move to digital assets and digitalization is requiring new infrastructure plus connecting points between traditional and digital platforms, and we are well positioned to participate in that. So that's number one.
+
+Number two, we've got distinctive capabilities in high-growth, high PE areas. So we've got leading position in the 3 core businesses. We're the leading provider in private. We have the Alpha end-to-end platform, including an at-scale commercial software player. In the ETF space, we basically are the leading player in all aspects of it, whether it's sponsoring ETFs or servicing ETFs, and ETFs now have truly become the vehicle of choice globally. We've got a very key position and a trusted position in this digital revolution, staking out this new distinctive position in wealth services and it's distinctive because it's a modern platform and it's digital. And finally, we've got this proven and long-standing ability to partner, which is really important, whether it's partnering with firms like Blackstone or Apollo to bring them into a space that they want to be, or to work with clients long term and be their outsourcing partner.
+
+Number three, we've got what I believe, and you more or less implied it there. We've got this clear pattern of effective execution and performance, consistent fee growth over the last several years in services, asset management and markets. We've got balance sheet optimization well underway, as John talked about, in NII and NIM. We've got consistent productivity improvement, $500 million last year, $500 million this year, $2 billion over the last 5 years with more to come. And then as you note, 2 years of fee growth, positive operating leverage and expanding margin and our guide reflects a commitment to more of that in 2026.
+
+Fourth, I would point to the team. It's a mix of State Street veterans plus truly superb talent from the outside that I would argue now makes up the best team in our space. Most importantly, it's backed up by a very deep bench and it's a team that's determined to win and incented to do so. And then lastly, your negative is my positive. We're an attractive capital-light income statement. We're growing better than our peers in the attractive PE revenue areas like servicing fees, like management fees, like software and that should drive multiple expansion. So whether or not that fits on a cocktail napkin, that's how I would articulate it.
+
+Michael Mayo
+Wells Fargo Securities, LLC, Research Division
+
+Maybe that fits on 5 cocktail napkins. But just as follow-up. So let me just accept everything you just said, and the market's not convinced, right? I think that market knows a lot of this, and you reminded the market a lot about that. But under what scenario would you consider a combination with another bank? Under what scenario would you consider selling off asset management? In what scenario would you consider buying another bank? Under what scenario would you consider a more significant strategic move, especially given this environment of deregulation? And I hear you don't need it. You have -- you're confident with the internal growth. But this seems like the time to think about those big types of questions. Where do you come out on that?
+
+Ronald O’Hanley
+CEO & Chairman
+
+Mike, I mean, we always think about M&A as we think about capital deployment and even more importantly, strategically where we are and where do we want to go. I mean, we do remain confident in our abilities, and I think that we're showing this ability to deploy those capabilities and generate accelerating returns. Now there's always the question around scale and how we think about that. I mean that's really what motivated what we tried to do with BBH. It was unfortunate but that was in a different regulatory environment. And so without implying that there's anything underway, explicitly or implicitly, I'm not saying that, and we are confident in our organic strategy. But to the extent to which something made sense, and it was a good use of shareholder capital as opposed to returning it to capital or reinvesting in our business, of course, we'd look at that.
+
+Michael Mayo
+Wells Fargo Securities, LLC, Research Division
+
+And just a last short follow-up, but -- go ahead, I'll wait. Go ahead, John.
+
+John Woods
+Executive VP & CFO
+
+Mike, it's just a little -- one point on that. I mean I think I agree with all -- of course, everything that Ron was just saying. I mean I think -- when I think about the scaled position and the growth pivot and how well positioned we are to win with the megatrends that Ron articulated, whether it's digital, privates and wealth, you put that together with the transformation and other opportunities that are all in front of us that we'll put a frame around maybe sometime later this year, all that upside we think should accrue to the benefit of the existing shareholder base.
+
+And when there's a large transaction, you have to think about whether you want to share what's right in front of us organically with any other shareholder base. And I think this shareholder base that's hung in with us deserves to basically see that upside, and I think we see that coming. So that's certainly something that I think about when you ask your question, and there's a lot of excitement here around what we can deliver organically. And let's basically convince the investor base that we can be consistent in solidifying our gains and growing down the line. And I think the stock will take care of itself under that scenario.
+
+Michael Mayo
+Wells Fargo Securities, LLC, Research Division
+
+And just I didn't mischaracterize it, maybe I'm talking to the wrong investors, but investors I talked to seem to be frustrated. Would you get that sense of frustration you're trying to show them they're wrong? Or do you sense that investors are pleased with the progress?
+
+John Woods
+Executive VP & CFO
+
+I think we have a lot of support for the vision that we're painting, which is, yes, you've made a pivot to growth over the last 2 or 3 years. Let's see that solidified and let's see that accelerate. And I think we have a lot of support for that vision, and we've demonstrated -- and we've allowed that to -- we've shown an ability to drop that to the bottom line with improving margin and returns. And I think you've got to basically have that track record continue to be the case over time, and that's our expectation. So I think we are hearing support from that standpoint.
+
+Operator
+
+Well, that concludes the question-and-answer session. I'll now turn the call back over to Elizabeth Lynn for closing remarks.
+
+Elizabeth Lynn
+Executive VP & Global Head of Investor Relations
+
+Thank you all for joining us today, and please feel free to reach out to Investor Relations for any additional questions. Thank you and have a good day.
+
+
