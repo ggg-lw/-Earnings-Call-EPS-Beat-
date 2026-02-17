@@ -1,0 +1,12 @@
+{
+  "penalty": "l1",
+  "C": 0.3,
+  "class_weight": "None",
+  "n_train": 744,
+  "n_test": 330,
+  "y_train_mean": 0.7701612903225806,
+  "y_test_mean": 0.8575757575757575,
+  "logloss_oos": 0.41398066167875675,
+  "brier_oos": 0.12683050498647,
+  "model_id": "run_012"
+}

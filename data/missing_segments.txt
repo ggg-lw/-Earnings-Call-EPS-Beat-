@@ -1,0 +1,88 @@
+# earnings_calls.db segments 缺失清单
+# 期望范围: 2015-Q1 ~ 2025-Q4，每季度需有 Prepared Remarks 和 Q&A
+# 格式: TICKER | 季度 | 缺失内容
+============================================================
+
+AAPL | 2015-Q2 | Prepared Remarks + Q&A
+AMZN | 2017-Q4 | Q&A
+AMZN | 2018-Q4 | Q&A
+AMZN | 2019-Q1 | Q&A
+AMZN | 2019-Q2 | Q&A
+AMZN | 2019-Q3 | Q&A
+AMZN | 2019-Q4 | Q&A
+AVGO | 2015-Q2 | Prepared Remarks + Q&A
+AVGO | 2019-Q1 | Prepared Remarks + Q&A
+AVGO | 2022-Q2 | Prepared Remarks + Q&A
+BAC | 2025-Q3 | Q&A
+BK | 2021-Q3 | Prepared Remarks + Q&A
+BLK | 2018-Q4 | Prepared Remarks + Q&A
+BR | 2016-Q2 | Prepared Remarks + Q&A
+BR | 2022-Q1 | Prepared Remarks + Q&A
+C | 2015-Q3 | Prepared Remarks + Q&A
+CRM | 2015-Q1 | Prepared Remarks + Q&A
+CRM | 2015-Q2 | Prepared Remarks + Q&A
+CRM | 2018-Q1 | Prepared Remarks + Q&A
+CRM | 2018-Q2 | Prepared Remarks + Q&A
+CRM | 2018-Q3 | Prepared Remarks + Q&A
+MS | 2015-Q4 | Prepared Remarks + Q&A
+MSFT | 2017-Q1 | Prepared Remarks + Q&A
+MSFT | 2022-Q1 | Prepared Remarks + Q&A
+NFLX | 2015-Q1 | Q&A
+NFLX | 2015-Q2 | Q&A
+NFLX | 2015-Q3 | Q&A
+NFLX | 2015-Q4 | Q&A
+NFLX | 2016-Q1 | Q&A
+NFLX | 2016-Q2 | Q&A
+NFLX | 2016-Q3 | Q&A
+NFLX | 2016-Q4 | Q&A
+NFLX | 2017-Q1 | Q&A
+NFLX | 2017-Q2 | Q&A
+NFLX | 2017-Q3 | Q&A
+NFLX | 2017-Q4 | Q&A
+NFLX | 2018-Q1 | Q&A
+NFLX | 2018-Q2 | Q&A
+NFLX | 2018-Q3 | Q&A
+NFLX | 2018-Q4 | Q&A
+NFLX | 2019-Q1 | Q&A
+NFLX | 2019-Q2 | Q&A
+NFLX | 2019-Q3 | Q&A
+NFLX | 2019-Q4 | Q&A
+NFLX | 2020-Q1 | Q&A
+NFLX | 2020-Q2 | Q&A
+NFLX | 2020-Q3 | Q&A
+NFLX | 2020-Q4 | Q&A
+NFLX | 2021-Q1 | Q&A
+NFLX | 2021-Q2 | Q&A
+NFLX | 2021-Q3 | Prepared Remarks + Q&A
+NFLX | 2021-Q4 | Prepared Remarks + Q&A
+NFLX | 2022-Q1 | Q&A
+NFLX | 2022-Q2 | Q&A
+NFLX | 2022-Q3 | Q&A
+NFLX | 2022-Q4 | Q&A
+NFLX | 2023-Q1 | Q&A
+NFLX | 2023-Q2 | Q&A
+NFLX | 2023-Q3 | Q&A
+NFLX | 2023-Q4 | Q&A
+NFLX | 2024-Q1 | Q&A
+NFLX | 2024-Q2 | Q&A
+NFLX | 2024-Q3 | Q&A
+NFLX | 2024-Q4 | Q&A
+NFLX | 2025-Q1 | Q&A
+NFLX | 2025-Q2 | Q&A
+NFLX | 2025-Q3 | Q&A
+NFLX | 2025-Q4 | Q&A
+NOW | 2015-Q1 | Prepared Remarks + Q&A
+NOW | 2016-Q4 | Prepared Remarks + Q&A
+NVDA | 2015-Q4 | Q&A
+NVDA | 2019-Q3 | Prepared Remarks + Q&A
+NVDA | 2022-Q3 | Prepared Remarks + Q&A
+PNC | 2024-Q2 | Prepared Remarks + Q&A
+QCOM | 2019-Q2 | Prepared Remarks + Q&A
+SHOP | 2015-Q1 | Prepared Remarks + Q&A
+SHOP | 2015-Q2 | Prepared Remarks + Q&A
+SHOP | 2015-Q3 | Prepared Remarks + Q&A
+SHOP | 2015-Q4 | Prepared Remarks + Q&A
+STT | 2017-Q4 | Prepared Remarks + Q&A
+STT | 2024-Q4 | Q&A
+TSLA | 2015-Q2 | Q&A
+TSM | 2017-Q4 | Prepared Remarks + Q&A

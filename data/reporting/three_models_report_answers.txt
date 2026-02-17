@@ -1,0 +1,5 @@
+问题1（信息性特征）：基于三模型特征重要性共识，前列特征包括 coleman_liau_pr, lm_subjectivity_zscore_qa, dale_chall_pr, lm_complexity_pr, lm_modal_weak_zscore_qa。这些特征在不同模型中重复出现，说明其对 EPS Beat/Miss 具有稳定增量信息。
+
+问题2（五年稳定性）：最佳模型 model_2_rf 在样本外 logloss=0.4027, brier=0.1180, auc=0.6197。按年观察，其 logloss 均值=0.4046, 标准差=0.0241，整体波动可控。
+
+问题3（文本 vs 市场分歧）：当前未检测到 Polymarket 对比文件，请先运行 4.4 生成文本-市场合并数据后再自动输出公司分歧结论。
