@@ -1,64 +1,55 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-new file mode 100644
-index 0000000000000000000000000000000000000000..03cf7550674c8a86a9b7503e2e15c824fa11a67c
---- /dev/null
-+++ b/README.md
-@@ -0,0 +1,54 @@
-+# Earnings-Call-EPS-Beat
-+
-+一个基于财报电话会（earnings call transcript）文本特征的 **EPS Beat 概率预测项目**。
-+
-+## 项目目标（Overview）
-+本项目核心目标是：
-+- 从财报电话会文本中提取可量化特征（可读性、情绪、文档属性等）；
-+- 与季度标签（EPS beat / miss）对齐；
-+- 训练并评估预测模型，输出每个公司季度的 beat 概率；
-+- 提供可复用的数据产物与 notebook 流程，支持后续迭代与验证。
-+
-+## 你现在能直接用什么
-+当前仓库已经包含了：
-+- 处理后的特征宽表与标签文件；
-+- 模型训练与 OOS 预测结果；
-+- 关键模型文件（imputer/scaler/model）；
-+- notebook 分阶段流程（数据获取 → 特征工程 → 建模评估）。
-+
-+## 目录结构（简版）
-+- `data/`
-+  - `call_features_wide.csv`：文本特征宽表
-+  - `labels/eps_labels.csv`：EPS 标签
-+  - `modeling/`：模型、参数、OOS 概率与评估指标
-+  - `beat_probability_results.csv`：最终概率结果汇总
-+- `notebook/`
-+  - 分步骤 notebook（抓取、处理、特征、建模、评估）
-+- `quick_health_check.py`
-+  - 无第三方依赖的一键健康检查
-+- `PROJECT_STATUS.md`
-+  - 项目状态快速说明（中文）
-+
-+## 推荐使用流程
-+1. 先跑快速健康检查：
-+   ```bash
-+   python quick_health_check.py
-+   ```
-+2. 根据 `notebook/` 中的流程按阶段复现（建议按编号顺序）。
-+3. 在 `data/modeling/` 查看模型表现与 OOS 输出。
-+4. 基于你关注的股票池扩展 `data/transcripts/` 后重复流程。
-+
-+## 当前默认健康检查覆盖项
-+`quick_health_check.py` 会检查：
-+- 关键产物文件是否存在；
-+- 核心 CSV 行列规模是否可读；
-+- OOS 指标（logloss / brier）是否在经验阈值内。
-+
-+## 适合继续改进的方向
-+- 增加更严格的时间切分与泄漏检查；
-+- 做概率校准（calibration）与阈值策略；
-+- 引入更多事件特征（指引变动、管理层措辞变化等）；
-+- 增加自动化 pipeline（脚本化训练 + 版本化产物）。
-+
-+## 说明
-+该仓库目前更偏研究与实验产物沉淀（notebook + 数据文件），如果你要用于生产环境，建议进一步脚本化、模块化并补齐 CI 检查。
- 
-EOF
-)
+# Earnings-Call-EPS-Beat
+
+> 基于财报电话会文本特征预测公司季度 **EPS Beat** 概率的研究型项目。
+
+这个 `README.md` 就是你 GitHub Project 的首页总览文档，包含项目目标、结构、使用方式与当前产物说明。
+
+---
+
+## 项目概览（Overview）
+本项目围绕下面的问题展开：
+- 是否可以仅基于 earnings call transcript 的文本信息，提前估计下一期 EPS beat 概率？
+- 哪类文本特征（可读性、情绪、措辞风格）对预测更有帮助？
+- 在 OOS（out-of-sample）场景下，模型是否保持稳定有效？
+
+当前仓库以“研究/实验产物沉淀”为主，已包含数据、特征、标签、模型与评估结果。
+
+## 仓库结构
+- `data/`
+  - `call_features_wide.csv`：文本特征宽表
+  - `labels/eps_labels.csv`：EPS beat 标签
+  - `modeling/`：模型文件、参数、OOS 概率、评估指标
+  - `beat_probability_results.csv`：最终概率结果汇总
+- `notebook/`
+  - 分阶段 notebook（抓取 → 清洗 → 特征工程 → 训练评估）
+- `quick_health_check.py`
+  - 无第三方依赖的一键健康检查脚本
+- `PROJECT_STATUS.md`
+  - 中文版“项目状态速览”
+
+## 快速开始（Quick Start）
+先执行项目健康检查：
+
+```bash
+python quick_health_check.py
+```
+
+该命令会检查：
+- 关键产物文件是否存在；
+- 核心 CSV 的行列规模；
+- OOS 指标（`logloss_oos`、`brier_oos`）是否在经验阈值内。
+
+## 推荐复现流程
+1. 运行 `quick_health_check.py` 确认基础产物完整。
+2. 按 `notebook/` 编号顺序复现实验流程。
+3. 在 `data/modeling/` 查看模型输出与指标。
+4. 如需扩展标的池，补充 `data/transcripts/` 后重新走流程。
+
+## 当前可改进方向
+- 增加更严格的时间切分与数据泄漏检测；
+- 做概率校准（calibration）与阈值策略优化；
+- 增加事件/管理层语义变化类特征；
+- 将 notebook 流程逐步脚本化并接入自动化检查（CI）。
+
+## 说明
+该仓库目前偏研究型组织方式（notebook + 数据产物）。如果用于生产环境，建议做模块化重构、配置化训练、版本化产物管理。
