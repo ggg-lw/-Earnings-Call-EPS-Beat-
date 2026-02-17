@@ -27,23 +27,12 @@
 - `PROJECT_STATUS.md`
   - 中文版“项目状态速览”
 
-## 快速开始（Quick Start）
-先执行项目健康检查：
 
-```bash
-python quick_health_check.py
-```
-
-该命令会检查：
-- 关键产物文件是否存在；
-- 核心 CSV 的行列规模；
-- OOS 指标（`logloss_oos`、`brier_oos`）是否在经验阈值内。
 
 ## 推荐复现流程
-1. 运行 `quick_health_check.py` 确认基础产物完整。
-2. 按 `notebook/` 编号顺序复现实验流程。
-3. 在 `data/modeling/` 查看模型输出与指标。
-4. 如需扩展标的池，补充 `data/transcripts/` 后重新走流程。
+1. 按 `notebook/` 编号顺序复现实验流程。
+2. 在 `data/modeling/` 查看模型输出与指标。
+3. 如需扩展标的池，补充 `data/transcripts/` 后重新走流程。
 
 ## 当前可改进方向
 - 增加更严格的时间切分与数据泄漏检测；
@@ -51,5 +40,3 @@ python quick_health_check.py
 - 增加事件/管理层语义变化类特征；
 - 将 notebook 流程逐步脚本化并接入自动化检查（CI）。
 
-## 说明
-该仓库目前偏研究型组织方式（notebook + 数据产物）。如果用于生产环境，建议做模块化重构、配置化训练、版本化产物管理。
